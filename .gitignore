@@ -1,0 +1,8 @@
+.venv
+.claude
+
+data/raw/former_names.csv
+data/raw/goalscorers.csv
+data/raw/results.csv
+data/raw/shootouts.csv
+data/processed/results_clean.parquet
